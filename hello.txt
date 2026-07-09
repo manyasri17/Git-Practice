@@ -1,3 +1,2 @@
 Hello world
-Hi this is my first git intro.
-And I have done it successfully.
+
